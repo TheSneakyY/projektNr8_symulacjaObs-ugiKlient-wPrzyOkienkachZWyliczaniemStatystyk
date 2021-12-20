@@ -1,0 +1,1 @@
+# projektNr8_symulacjaObs-ugiKlient-wPrzyOkienkachZWyliczaniemStatystyk
